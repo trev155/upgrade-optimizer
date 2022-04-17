@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/upgrade-optimizer/static/js/main.268b5c5a.js",
+    "index.html": "/upgrade-optimizer/index.html",
+    "main.268b5c5a.js.map": "/upgrade-optimizer/static/js/main.268b5c5a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.268b5c5a.js"
+  ]
+}
